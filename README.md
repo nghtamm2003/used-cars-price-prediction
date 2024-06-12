@@ -16,6 +16,15 @@ Bài tập lớn: Khai phá và phân tích dữ liệu (Học kì 1 - Năm 3 - 
 	
 ## Techstack
 - Ngôn ngữ lập trình Python (via Jupyter Notebook)
+
+## Thư viện sử dụng
+```
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+```
 	
 ## Hướng dẫn sử dụng
 Chạy notebook ***price-prediction.ipynb*** thông qua Jupyter Notebook/ JupyterLab hoặc Visual Studio Code (đã cài đặt extension Jupyter Notebook)
