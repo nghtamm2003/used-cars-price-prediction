@@ -4,8 +4,8 @@ Bài tập lớn: Khai phá và phân tích dữ liệu (Học kì 1 - Năm 3 - 
 ## Mục lục
 * [Thông tin cơ bản](#thông-tin-cơ-bản)
 * [Techstack](#techstack)
-* [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 * [Thư viện sử dụng](#thư-viện-sử-dụng)
+* [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 
 ## Thông tin cơ bản
 **Bộ dữ liệu**
